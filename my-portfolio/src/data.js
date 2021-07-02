@@ -1,27 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Great Novels API",
+    subtitle: "Express, Node, MySQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "API of select list of the all time greats. Accesibility to novels, authors or genres and any combination in between. Fuzzy search available for titles and authors.",
+    image:"../public/novels.gif",
+    link: "http://novelsapi-env.eba-uftmpdwp.us-east-2.elasticbeanstalk.com/",
   },
   {
     title: "React Tracks",
-    subtitle: "React and Python",
+    subtitle: "",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "",
+    link: "",
   },
   {
-    title: "DevChat",
+    title: "",
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
     title: "Epic Todo App",
@@ -53,8 +53,15 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node.js",
+  "MySQL",
+  "UI Design",
+  "HTML5",
+  "CSS3",
+  "Express",
+  "REST API",
+  "Postman",
+  "Lucid Charts",
+  "Mocha/Chai"
+  
 ];
