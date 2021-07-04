@@ -20,6 +20,12 @@ export default function Navbar() {
               <a href="#testimonials" className="mr-5 hover:text-white">
                 Kind Words
               </a>
+              <a target="blank" href="https://github.com/carryegaulin31" className="mr-5 hover:text-white">
+                GitHub
+              </a>
+              <a target="blank" href="https://www.linkedin.com/in/carrye-gaulin/" className="mr-5 hover:text-white">
+                LinkedIn
+              </a>
             </nav>
             <a
               href="#contact"
