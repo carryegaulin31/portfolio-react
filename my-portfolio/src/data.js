@@ -16,20 +16,20 @@ export const projects = [
     link: "https://youtu.be/8tXSfM07E7E",
   },
   {
-    title: "",
-    subtitle: "React and Firebase",
+    title: "Once-and-Floral UI",
+    subtitle: "React.js, Express, MySql, Webpack, Node.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "Under construction, this UI currently has a functioning API and searchable UI.  Upon completion it will have a user log in, links to flower images for comparing and access to multiple users.  This will be a tool for brides, their family and friends as well as wedding planners to be to prepare for the daunting task of flower selection, especially for destination weddings.  You can choose your arrangements all from the comfort of home if you see fit and simply share your link with anyone that needs to know or weigh in.",
+    image: "./project-4.gif",
     link: "",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Memory Game",
+    subtitle: "React, Next.js, React Spring",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Another project I am excited to get started creating a memory game from scratch and learn more about Next.js",
+    image: "./project-3.gif",
+    link: "",
   },
 ];
 
@@ -62,6 +62,6 @@ export const skills = [
   "REST API",
   "Postman",
   "Lucid Charts",
-  "Mocha/Chai"
+  "TDD testing/Mocha/Chai/Sinon"
   
 ];
